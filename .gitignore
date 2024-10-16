@@ -1,0 +1,4 @@
+# Node modules
+node_modules/
+ca.crt
+logstash_ingest_data/logstash_completed.log
